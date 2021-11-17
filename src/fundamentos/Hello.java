@@ -1,7 +1,7 @@
 /**
  * 
  */
-package cursojava;
+package fundamentos;
 
 /**
  * @author ferna
